@@ -1,1 +1,1 @@
-This is very new
+this is edited text for file2
